@@ -1,0 +1,3 @@
+com\myshop\admin\user\PasswordEncoderTest.class
+com\myshop\admin\user\RoleRepositoryTests.class
+com\myshop\admin\user\UserRepositoryTests.class

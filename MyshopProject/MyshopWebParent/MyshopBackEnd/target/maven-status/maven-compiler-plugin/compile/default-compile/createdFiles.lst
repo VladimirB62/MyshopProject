@@ -1,2 +1,7 @@
-com\admin\MyshopBackEndApplication.class
-com\admin\MainController.class
+com\myshop\admin\MyshopBackEndApplication.class
+com\myshop\admin\user\RoleRepository.class
+com\myshop\admin\MainController.class
+com\myshop\admin\user\UserService.class
+com\myshop\admin\WebSecurityConfig.class
+com\myshop\admin\user\UserController.class
+com\myshop\admin\user\UserRepository.class
