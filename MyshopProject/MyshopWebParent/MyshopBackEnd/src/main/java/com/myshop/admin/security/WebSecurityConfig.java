@@ -1,4 +1,4 @@
-package com.myshop.admin;
+package com.myshop.admin.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
